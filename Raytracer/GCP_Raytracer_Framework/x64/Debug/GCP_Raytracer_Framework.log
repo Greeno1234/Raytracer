@@ -1,0 +1,2 @@
+﻿Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Camera::getRay(struct glm::vec<2,int,0>)" (?getRay@Camera@@QEAAXU?$vec@$01H$0A@@glm@@@Z) referenced in function SDL_main
+D:\Raytracer\x64\Debug\GCP_Raytracer_Framework.exe : fatal error LNK1120: 1 unresolved externals
