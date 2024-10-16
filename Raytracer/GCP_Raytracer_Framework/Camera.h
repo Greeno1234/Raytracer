@@ -1,7 +1,7 @@
 #pragma once
 
 #include <GLM/glm.hpp>
-
+#include "Ray.h"
 
 class Camera
 {
@@ -25,7 +25,7 @@ class Camera
 
 
 	public:
-		void getRay(glm::ivec2 winPos);
+		Ray getRay(glm::ivec2 winPos); //return ray
 
 
 

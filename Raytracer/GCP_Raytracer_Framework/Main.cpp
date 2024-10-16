@@ -51,9 +51,12 @@ int main(int argc, char* argv[])
 		for (size_t y = 0; y < winSize.y; y++)
 		{
 			glm::ivec2 pixelPosition(x, y);
-			cam.getRay(pixelPosition);// return a ray
-
+			Ray currentRay = cam.getRay(pixelPosition);// return a ray
+			//send ray to raytracer
+			pixelColour = rayTracer.traceRay(currentRay);
 			
+			_myFramework.DrawPixel(pixelPosition, pixelColour);
+
 
 		}
 
