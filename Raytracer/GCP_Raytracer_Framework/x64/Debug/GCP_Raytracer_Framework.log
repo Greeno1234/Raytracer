@@ -1,2 +1,6 @@
-﻿Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Camera::getRay(struct glm::vec<2,int,0>)" (?getRay@Camera@@QEAAXU?$vec@$01H$0A@@glm@@@Z) referenced in function SDL_main
-D:\Raytracer\x64\Debug\GCP_Raytracer_Framework.exe : fatal error LNK1120: 1 unresolved externals
+﻿  Sphere.cpp
+E:\Quick Access\Desktop\UNI FINAL YEAR\Units\GCP\Raytracer\Raytracer\GCP_Raytracer_Framework\Sphere.cpp(54,12): warning C4101: 'intersectPos': unreferenced local variable
+E:\Quick Access\Desktop\UNI FINAL YEAR\Units\GCP\Raytracer\Raytracer\GCP_Raytracer_Framework\Sphere.cpp(14,8): warning C4101: 'x': unreferenced local variable
+E:\Quick Access\Desktop\UNI FINAL YEAR\Units\GCP\Raytracer\Raytracer\GCP_Raytracer_Framework\Sphere.cpp(53,7): warning C4101: 'intersected': unreferenced local variable
+E:\Quick Access\Desktop\UNI FINAL YEAR\Units\GCP\Raytracer\Raytracer\GCP_Raytracer_Framework\Sphere.cpp(13,8): warning C4101: 'd': unreferenced local variable
+  GCP_Raytracer_Framework.vcxproj -> E:\Quick Access\Desktop\UNI FINAL YEAR\Units\GCP\Raytracer\Raytracer\x64\Debug\GCP_Raytracer_Framework.exe

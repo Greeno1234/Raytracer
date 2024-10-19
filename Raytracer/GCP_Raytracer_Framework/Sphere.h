@@ -1,5 +1,6 @@
 #pragma once
 #include "GCP_GFX_Framework.h"
+#include "Ray.h"
 
 
 
@@ -7,11 +8,15 @@ class Sphere
 {
 	
 public:
-	glm::vec3 Position;
-	float Radius;
+	glm::vec3 position;
+	float radius;
 	//colour
 
-	void rayIntersect(bool intersected, glm::vec3 intersectPos);
+	void rayIntersect(Ray ray);
+
+
+
+
 	glm::vec3 shade(glm::vec3 pointIntersect);
 
 

@@ -1,46 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Raytracer2\\Raytracer\\Raytracer\\",
+  "WorkspaceRootPath": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\RayTracer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\RayTracer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\GCP_GFX_Framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\GCP_GFX_Framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\RayTracer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\RayTracer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF1FF551-F3AA-4128-AC8D-CACCAEFCA781}|GCP_Raytracer_Framework\\GCP_Raytracer_Framework.vcxproj|solutionrelative:GCP_Raytracer_Framework\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Main.cpp",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Main.cpp",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\Main.cpp",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Main.cpp",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Main.cpp",
               "RelativeToolTip": "GCP_Raytracer_Framework\\Main.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADsAAAAAAAAA",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-16T08:14:23.594Z",
               "IsPinned": true,
@@ -68,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Camera.h",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.h",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.h",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\Camera.h",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.h",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.h",
               "RelativeToolTip": "GCP_Raytracer_Framework\\Camera.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-16T08:24:20.267Z",
               "IsPinned": true,
@@ -82,13 +78,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Camera.cpp",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.cpp",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.cpp",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\Camera.cpp",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.cpp",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Camera.cpp",
               "RelativeToolTip": "GCP_Raytracer_Framework\\Camera.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-16T08:56:59.197Z",
               "IsPinned": true,
@@ -98,11 +94,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Ray.cpp",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.cpp",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.cpp",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\Ray.cpp",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.cpp",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.cpp",
               "RelativeToolTip": "GCP_Raytracer_Framework\\Ray.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-16T08:56:55.204Z",
               "IsPinned": true,
@@ -112,11 +108,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Ray.h",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.h",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.h",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\Ray.h",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.h",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Ray.h",
               "RelativeToolTip": "GCP_Raytracer_Framework\\Ray.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-16T08:24:05.181Z",
               "IsPinned": true,
@@ -124,39 +120,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Sphere.h",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.h",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.h",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\Sphere.h",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.h",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.h",
               "RelativeToolTip": "GCP_Raytracer_Framework\\Sphere.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-16T08:24:13.979Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Sphere.cpp",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.cpp",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.cpp",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\Sphere.cpp",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.cpp",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\Sphere.cpp",
               "RelativeToolTip": "GCP_Raytracer_Framework\\Sphere.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-16T08:56:57.797Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "RayTracer.h",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.h",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.h",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\RayTracer.h",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.h",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.h",
               "RelativeToolTip": "GCP_Raytracer_Framework\\RayTracer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-16T08:24:27.464Z",
               "IsPinned": true,
@@ -166,28 +164,15 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "RayTracer.cpp",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.cpp",
+              "DocumentMoniker": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.cpp",
               "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\RayTracer.cpp",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.cpp",
+              "ToolTip": "E:\\Quick Access\\Desktop\\UNI FINAL YEAR\\Units\\GCP\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\RayTracer.cpp",
               "RelativeToolTip": "GCP_Raytracer_Framework\\RayTracer.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-16T08:56:57.073Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GCP_GFX_Framework.h",
-              "DocumentMoniker": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\GCP_GFX_Framework.h",
-              "RelativeDocumentMoniker": "GCP_Raytracer_Framework\\GCP_GFX_Framework.h",
-              "ToolTip": "D:\\Raytracer2\\Raytracer\\Raytracer\\GCP_Raytracer_Framework\\GCP_GFX_Framework.h",
-              "RelativeToolTip": "GCP_Raytracer_Framework\\GCP_GFX_Framework.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-16T08:58:52.813Z",
-              "IsPinned": true
             }
           ]
         }

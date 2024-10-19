@@ -3,7 +3,7 @@
 #include "Camera.h"
 #include "Ray.h"
 #include "RayTracer.h"
-
+#include "Sphere.h"
 
 
 
@@ -27,7 +27,9 @@ int main(int argc, char* argv[])
 
 	Camera cam;
 
-
+	Sphere sphere1;
+	sphere1.position = { 0,0,0 };
+	sphere1.radius = 4.0f;
 
 
 
@@ -62,6 +64,8 @@ int main(int argc, char* argv[])
 
 
 	}
+
+	
 	// Draws a single pixel
 	_myFramework.DrawPixel(pixelPosition, pixelColour);
 
